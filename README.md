@@ -1,8 +1,8 @@
-# Essa página foi criada com um Template Bootstrap para minha apresentação pessoal.
+# Utilizando-me do [Template Resume](https://startbootstrap.com/template-overviews/resume/) da Start Bootstrap, criei esse Site Pessoal
 
-Qualquer dúvida, me procura no linkedin: https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/
+Qualquer dúvida, me procure no linkedin: https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/
 
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+## Mais Informações sobre o Template:
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
@@ -14,6 +14,6 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+### Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
