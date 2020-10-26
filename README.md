@@ -1,8 +1,10 @@
 # Utilizando-me do [Template Resume](https://startbootstrap.com/template-overviews/resume/) da Start Bootstrap, criei essa bela apresentação em forma de Web Site:
- &nbsp; &nbsp; &nbsp; <https://gabrielltmonteiro.github.io>
+# &nbsp; &nbsp; &nbsp; <https://gabrielltmonteiro.github.io>
 
-Qualquer dúvida, me procure no linkedin: https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/
+Qualquer dúvida, me procure no linkedin: </br>
+&nbsp; &nbsp; &nbsp; <https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/>
 
+</br></br></br>
 ## Mais Informações sobre o Template:
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
