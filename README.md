@@ -1,16 +1,12 @@
-<h2> Utilizando-me do <a href="https://startbootstrap.com/template-overviews/resume/">Template Resume</a> da Start Bootstrap, criei essa bela apresentação em forma de Web Site:<br><h2 align="center">https://gabrielltmonteiro.github.io</h2></h2>
+<h1> Utilizando-me do <a href="https://startbootstrap.com/template-overviews/resume/">Template Resume</a> da Start Bootstrap, criei essa bela apresentação em forma de Web Site:<br><h2 align="center">https://gabrielltmonteiro.github.io</h2></h2>
 </br></br>
 <p>&nbsp; &nbsp; &nbsp; Ainda tem algumas coisas a corrigir e outras tantas que irei mudar, mas no saldo geral, tive uma experiência muito positiva, chegando a um resultado orgulhável em menos de 2 dias. Qualquer dúvida, me procure no linkedin:</p>
-<ul>
-  <li>
-    <p>https://www.linkedin.com/in/gltm-jrsoftwaredeveloper</p>
-  </li>
-</ul>  
+<p align="center"><a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  
 </br></br></br>
 <p align="right">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/gabrielltmonteiro/gabrielltmonteiro.github.io?color=green&style=plastic">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielltmonteiro/gabrielltmonteiro.github.io?color=orange&style=plastic">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/gabrielltmonteiro/gabrielltmonteiro.github.io?color=green&logo=github">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielltmonteiro/gabrielltmonteiro.github.io?color=orange&logo=html5&logoColor=white">
 </p>
 
 ## Mais Informações sobre o Template:
