@@ -6,7 +6,7 @@
 </br></br></br>
 <p align="right">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/gabrielltmonteiro/gabrielltmonteiro.github.io?color=green&logo=github&style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielltmonteiro/gabrielltmonteiro.github.io?color=orange&logo=html5&logoColor=white">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielltmonteiro/gabrielltmonteiro.github.io?color=orange&logo=html5&logoColor=white&style=flat-square">
 </p>
 
 ## Mais Informações sobre o Template:
